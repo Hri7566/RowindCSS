@@ -19,7 +19,7 @@
     "access": "public"
   },
   "devDependencies": {
-    "@rbxts/compiler-types": "^2.0.4-types.1",
+    "@rbxts/compiler-types": "2.1.1-types.0",
     "@rbxts/types": "^1.0.655",
     "@typescript-eslint/eslint-plugin": "^5.48.0",
     "@typescript-eslint/parser": "^5.48.0",
@@ -31,8 +31,8 @@
     "typescript": "^4.9.4"
   },
   "dependencies": {
+    "@rbxts/object-utils": "^1.0.4",
     "@rbxts/roact": "^1.4.4-ts.0",
-    "@rbxts/roact-hooked": "^2.3.2",
-    "@rbxts/object-utils": "^1.0.4"
+    "@rbxts/roact-hooked": "^2.3.2"
   }
 }
